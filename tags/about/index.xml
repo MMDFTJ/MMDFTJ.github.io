@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>About on MMDFTJ&#39;s Blog</title>
+        <link>https://example.com/tags/about/</link>
+        <description>Recent content in About on MMDFTJ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 29 Jan 2022 02:02:45 -0500</lastBuildDate><atom:link href="https://example.com/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://example.com/posts/about/</link>
+        <pubDate>Sat, 29 Jan 2022 02:02:45 -0500</pubDate>
+        
+        <guid>https://example.com/posts/about/</guid>
+        <description>&lt;img src="https://example.com/posts/about/ht.png" alt="Featured image of post About" /&gt;&lt;h2 id=&#34;关于本站&#34;&gt;关于本站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;这里是MMDFTJ&amp;rsquo;s Blog 搭建于2022-5-20&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;记录各种开发/渗透过程和经验等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blog使用hugo框架+Stack主题（Stack人）文章有搭建过程&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;此Blog部署在Github中&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技能&#34;&gt;技能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;语言：Python&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;前端：Html / css / javascript / vue cli&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;web渗透测试&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;萌新一个（逃&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;通知&#34;&gt;通知&lt;/h2&gt;
+&lt;p&gt;本站随缘更新&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
