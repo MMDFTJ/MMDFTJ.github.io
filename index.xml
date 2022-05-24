@@ -6,10 +6,10 @@
         <description>Recent content on MMDFTJ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 29 Jan 2022 02:02:45 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 May 2022 03:18:49 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
         <link>https://example.com/posts/about/</link>
-        <pubDate>Sat, 29 Jan 2022 02:02:45 -0500</pubDate>
+        <pubDate>Fri, 20 May 2022 01:04:15 +0800</pubDate>
         
         <guid>https://example.com/posts/about/</guid>
         <description>&lt;img src="https://example.com/posts/about/ht.png" alt="Featured image of post About" /&gt;&lt;h2 id=&#34;关于本站&#34;&gt;关于本站&lt;/h2&gt;
@@ -49,7 +49,7 @@
         <item>
         <title>Hugo搭建</title>
         <link>https://example.com/posts/hugo/</link>
-        <pubDate>Sat, 29 Jan 2022 02:02:45 -0500</pubDate>
+        <pubDate>Fri, 20 May 2022 03:18:49 +0800</pubDate>
         
         <guid>https://example.com/posts/hugo/</guid>
         <description>&lt;img src="https://example.com/posts/hugo/pic_1.png" alt="Featured image of post Hugo搭建" /&gt;&lt;h1 id=&#34;部署hugo环境&#34;&gt;部署Hugo环境&lt;/h1&gt;
